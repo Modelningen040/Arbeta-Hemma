@@ -4,10 +4,10 @@
 <head>
 <link href="" rel="stylesheet">
 <meta charset= "urf-8" >
-<title> </title>
+<title> Arbeta hemifrån </title>
 </head>
 <body>
-<p> Arbeta hemifrån 
+<p>  
 
 Det finns både fördelar och nackdelar med att jobba hemifrån. Att jobba hemma kan vara bra för vissa och mindre bra för andra personer, t.ex alla människor är olika alla människor gillar kanske inte att vistas bland många människor på ett kontor. Man är det vill säga lite antisocial av sig. Sedan finns det andra människor som gillar att vistas bland andra de får sin energi genom att vara runt omkring andra människor. 
 
